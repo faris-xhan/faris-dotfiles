@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =2
+let g:netrw_dirhist_2='/home/faris/presentation/jsIntro.md'
+let g:netrw_dirhist_1='/home/faris/project/server-butterfly/routes'
+let g:netrw_dirhist_0='/home/faris/project/butterfly/src'
+let g:netrw_dirhist_9='/home/faris/mkc/routes'
+let g:netrw_dirhist_8='/home/faris/noshay/bin'
+let g:netrw_dirhist_7='/home/faris/projects/mkc/public'
+let g:netrw_dirhist_6='/home/faris/projects/sql-todo/routes'
+let g:netrw_dirhist_5='/home/faris/learning/express/mdb-todo/configs'
+let g:netrw_dirhist_4='/home/faris/learning/express/mdb-todo/db'
+let g:netrw_dirhist_3='/home/faris/learning/express/mdb-todo/routes'
